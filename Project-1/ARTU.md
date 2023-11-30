@@ -9,7 +9,7 @@
 - Install jq 
 - sudo apt-get install jq
 
-#Script are present in aws_resource_tracker_file
+# Script are present in aws_resource_tracker_file
 
 for run the file 
 give chmod 777 file_name (for permision)
