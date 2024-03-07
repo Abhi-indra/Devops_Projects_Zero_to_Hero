@@ -1,4 +1,3 @@
-# Project 1
 ## Integrating Jenkins with GitHub Webhooks
 
 ### Prerequisites:
@@ -74,5 +73,3 @@
 
 ### Conclusion:
 Congratulations! You have successfully integrated Jenkins with GitHub webhooks and configured a Jenkins job to deploy your project automatically. Now, whenever changes are pushed to your GitHub repository, Jenkins will automatically trigger the deployment process.
-
-# Project 2

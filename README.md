@@ -8,3 +8,9 @@
 
 # Project - 3
 - How to Copy Files Between Amazon EC2 and Amazon S3?
+
+# Project - 4
+- Integration Jenkins with github using frestyle project
+
+# Project - 5
+- Jenkins Pipeline Docker Build & Push using Declarative CI/CD Pipeline
