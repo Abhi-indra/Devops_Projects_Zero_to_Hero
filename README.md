@@ -14,3 +14,7 @@
 
 # Project - 5
 - Jenkins Pipeline Docker Build & Push using Declarative CI/CD Pipeline
+
+# Project - 6
+- Deployment of an ToDo application on AWS using AWS ECR and ECS Fargate
+
