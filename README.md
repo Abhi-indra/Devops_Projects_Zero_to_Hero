@@ -18,3 +18,6 @@
 # Project - 6
 - Deployment of an ToDo application on AWS using AWS ECR and ECS Fargate
 
+# Project - 7 (AWS Project)
+- Demo for 2-tier app in Private subnet or VPC with public-private subnet in Production
+
