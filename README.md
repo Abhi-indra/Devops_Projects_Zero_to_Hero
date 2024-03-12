@@ -23,4 +23,4 @@
 
 # Project - 8 (AWS S3 Project)
 8.1 - Restrict-access-to-owner in S3 bucket
-8.2 - 
+8.2 - Static Website hosting on S3.
